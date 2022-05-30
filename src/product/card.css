@@ -1,0 +1,49 @@
+.card{
+    min-height: 400px;
+    display: flex;
+justify-content: center;
+align-items: center;
+    flex-direction: column;
+    background-color: #ffffff;
+    flex: 1;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 15px;
+}
+.card__heading{
+    margin: 10px;
+    font-size: 25px;
+    font-weight: 600;
+}
+/* .card__info{
+    
+    width: 100%;
+    margin-left: 20px;
+} */
+.card__price{
+    font-size: 25px;
+    margin-left: 25px;
+}
+.card__rating{
+    margin-left: 25px;
+
+}
+.card__star{
+   font-size: 25px;
+   
+}
+.card__imagediv{
+    display: flex;
+}
+.card__image{
+    height: 400px;
+}
+
+.card__btn{
+    background-color:#ff9900;
+    height: 35px;
+    cursor: pointer;
+    width: 70%;
+    font-size: 25px;
+font-weight: 550;
+}

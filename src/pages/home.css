@@ -1,0 +1,17 @@
+/* .home{
+    display: flex;
+} */
+.home__image{
+
+    width: 100%;
+    /* margin-bottom: -125px; */
+}
+.home__div{
+    display: flex;
+    margin-top: -280px;
+    margin-bottom: 15px;
+}
+.home__div2{
+    display: flex;
+    margin-bottom: 15px;
+}
